@@ -1,7 +1,7 @@
 # Favorite Things
 
 These are a few of my favorite things:
-
+-pandas
 - Raindrops on roses
 - Whiskers on cute animals
 - Bright copper kettles
